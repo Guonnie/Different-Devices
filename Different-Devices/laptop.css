@@ -1,3 +1,6 @@
+body{
+  min-width: 1280px;
+}
 .laptop {
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0;
